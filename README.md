@@ -15,7 +15,7 @@ I specialize in full-stack development with a strong focus on:
 - **ERP & Business Systems**: Microsoft AL Language, Dynamics 365 Business Central
 - **AI Integration**: Smart applications with modern AI/ML capabilities
 
-I've delivered **115+ projects** ranging from AI-powered task management apps to enterprise ERP integrations. Each one taught me something new about balancing technical excellence with practical business needs.
+I've delivered **36+ projects** ranging from AI-powered task management apps to enterprise ERP integrations. Each one taught me something new about balancing technical excellence with practical business needs.
 
 ---
 
@@ -35,7 +35,6 @@ I've delivered **115+ projects** ranging from AI-powered task management apps to
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
@@ -45,9 +44,6 @@ I've delivered **115+ projects** ranging from AI-powered task management apps to
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### Specialized
-![Microsoft AL](https://img.shields.io/badge/Microsoft_AL-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Business Central](https://img.shields.io/badge/Business_Central-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 ---
 
@@ -63,7 +59,7 @@ I'm always exploring new patterns and technologies, but I never adopt something 
 
 ## 🔥 Featured Projects
 
-### 🧠 [MindMate](https://github.com/hamidijaz/MindMate) • [Live Demo](https://mindmate-app.vercel.app)
+### 🧠 [MindMate](https://github.com/hamidijaz/MindMate) • [Live Demo](https://mindmate.hamidijaz.dev)
 AI-powered task management that actually reduces overwhelm instead of adding to it.
 - **Tech**: Next.js, TypeScript, Firebase, Google Genkit, TailwindCSS
 - **What makes it special**: Smart task breakdown, conversational AI, energy-based suggestions
